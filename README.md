@@ -1,15 +1,25 @@
-<h1> Hi there! <img src="https://gph.is/2C2JWHS/></h1>
+### Hi, This is Borahm :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif/></h2>
+---
+## Languages: 
+<code><img alt="java" src="https://img.shields.io/badge/-Java-f1ff73?style=flat-square&logo=java&logoColor=black" /></code>
+<code><img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-73dcff?style=flat-square&logo=kotlin" /></code>
 
-<h4> Details </h4>
-<img src="https://img.shields.io/badge/Pronouns-He%2FHim-ff85c8">
-<b>✨ Languages</b>: 
-<p><img alt="java" src="https://img.shields.io/badge/-Java-f1ff73?style=flat-square&logo=java&logoColor=black" /><img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-73dcff?style=flat-square&logo=kotlin" /> </p>
-
-<b>📫 How to reach me</b>
-  - bo373@naver.com
-
-<h4>Statistics</h4>
+--
+## Statistics:
 <p align="left">
-<img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&show_icons=true&theme=dracula" width="380"/>&nbsp;
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=dracula" height="160">
+<img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&show_icons=true&theme=dracula" width="400"/>&nbsp;
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=dracula" height="155">
 </p>
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
