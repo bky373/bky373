@@ -1,9 +1,10 @@
-## Welcome! This is Borahm :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif/>
+<h2> Welcome :) 
+  This is Borahm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif/> </h2>
 ---
 ### Statistics:
 <p align="left">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&show_icons=true&theme=dracula" width="400"/>&nbsp;
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=dracula" height="160">
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=dracula" height="158">
 </p>
   
 ### Languages: 
