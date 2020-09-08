@@ -1,9 +1,9 @@
-<h2> Hi This is Borahm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif/ width="24px"> </h2>
----
+<h2> Hi This is Borahm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+
 ### Statistics:
 <p align="left">
-  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&show_icons=true&theme=dracula" width="400"/> &nbsp;
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=dracula" height="158">
+  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&show_icons=true&theme=dracula" width="390"/> &nbsp;
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=dracula" height="157">
 </p>
   
 ### Languages: 
