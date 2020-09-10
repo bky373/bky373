@@ -12,6 +12,12 @@
   <img alt="java" src="https://img.shields.io/badge/-Java-f1ff73?style=flat-square&logo=java&logoColor=black" />
 </p>
 
+### Details:
+📫 Reach me here : bo373@naver.com <br>
+🌱 I'm also trying to practice in : [bbFactory](https://github.com/bbFactory)
+
+
+
 <!--
 Here are some ideas to get you started:
 
