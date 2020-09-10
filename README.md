@@ -11,8 +11,9 @@
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-73dcff?style=flat-square&logo=kotlin" />
   <img alt="java" src="https://img.shields.io/badge/-Java-f1ff73?style=flat-square&logo=java&logoColor=black" />
 </p>
+<br>
 
-### Details:
+### About More:
 📫 Reach me here : bo373@naver.com <br>
 🌱 I'm also trying to practice in : [bbFactory](https://github.com/bbFactory)
 
