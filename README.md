@@ -3,7 +3,7 @@
 ### Statistics:
 <p align="left">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&show_icons=true&theme=radical" width="380"/> &nbsp;
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&theme=radical" height="150">
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=radical" height="150">
 </p>
   
 ### Favorite Languages: 
