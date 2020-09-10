@@ -14,7 +14,7 @@
 <br>
 
 ### About More:
-📫 Reach me here : bo373@naver.com <br>
+📫 Reach me : bo373@naver.com <br>
 🌱 I'm also trying to practice in : [bbFactory](https://github.com/bbFactory)
 
 
