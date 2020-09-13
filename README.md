@@ -2,8 +2,8 @@
 
 ### Statistics:
 <p align="left">
-  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&hide=stars&show_icons=true&theme=radical" width="380"/> &nbsp;
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=radical" height="150">
+  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&hide=stars&show_icons=true&theme=radical" width="390" height="130"/> &nbsp;
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=radical" height="130">
 </p>
   
 ### Favorite Languages: 
