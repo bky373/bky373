@@ -15,7 +15,7 @@
 
 ### About More:
 📫 Reach me : bo373@naver.com <br>
-🌱 I'm also trying to practice in : [bbFactory](https://github.com/bbFactory)
+🌱 I'm also trying to practice in : [bbFactory](https://github.com/bbFactory) & [My blog](https://bky373.tistory.com/)  
 
 
 
