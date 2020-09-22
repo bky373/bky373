@@ -19,7 +19,7 @@
 
 ### About More:
 📫 Reach me : bo373@naver.com <br>
-🌱 I'm also trying to practice in : [bbFactory](https://github.com/bbFactory) & [My blog](https://bky373.tistory.com/)  
+🌱 Also trying to practice in : [bbFactory](https://github.com/bbFactory) & [My blog](https://bky373.tistory.com/)  
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbky373%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
