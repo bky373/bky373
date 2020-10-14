@@ -15,14 +15,14 @@
   <img alt="slack" src="https://img.shields.io/badge/-Slack-FF4785?style=flat-square&logo=slack&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=github&logoColor=white" />
 </p>
-<br>
 
 ### Challenging!:
 🔥 MT6W: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving)
 
+<br>
 ### About More:
 📫 How to reach me : bo373@naver.com <br>
-🌱 I'm also trying to practice in : [bbFactory](https://github.com/bbFactory) & [My blog](https://bky373.tistory.com/)  
+🌱 I'm also trying to practice in : [My blog](https://bky373.tistory.com/) & [bbFactory](https://github.com/bbFactory)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbky373%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
