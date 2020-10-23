@@ -18,7 +18,8 @@
 
 ### Challenging!:
 🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving)
-
+<br>
+🔥 **1X1**: At leat one commit a day
 <br>
 
 ### About More:
