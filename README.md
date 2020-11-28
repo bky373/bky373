@@ -17,7 +17,7 @@
 </p>
 
 ### Challenging!:
-🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving)
+🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving) with Python, Kotlin
 <br>
 
 ### About More:
