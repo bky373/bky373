@@ -18,7 +18,7 @@
 
 ### Challenging!:
 🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving) with Python, Kotlin <br>
-:triangular_flag_on_post: **1C1D**: 1 commit per 1 day
+:triangular_flag_on_post: **1C1D**: 1 commit per 1 day (Sep 7, 2020 ~ )
 
 
 ### About More:
