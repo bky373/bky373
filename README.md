@@ -8,6 +8,7 @@
 </p>
 
 
+
 ### Languages & Tools: 
 
 <p>
@@ -20,10 +21,11 @@
 </p>
 
 
+
 ### Challenging!:
 
-🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving) with Python & Kotlin <br>
-:triangular_flag_on_post: **1C1D**: 1 commit per 1 day (Sep 7, 2020 ~ )
+🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving)  (20/09/07 ~ 21/01/31) => **다음 챌린지 준비중...** <br>
+:triangular_flag_on_post: **1C1D**: 1 commit per 1 day (20/09/07 ~ )
 
 
 ### About More:
@@ -32,6 +34,7 @@
 🌱 Also trying to practice on : [GitLab](https://kdt-gitlab.elice.io/bky373) & [My blog](https://bky373.tistory.com/) & [bbFactory](https://github.com/bbFactory) 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbky373%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <!--
 Here are some ideas to get you started:
 
