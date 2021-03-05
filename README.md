@@ -33,7 +33,7 @@
 📫 How to reach me : bo373@naver.com <br>
 🌱 Also trying to practice on : [GitLab](https://kdt-gitlab.elice.io/bky373) & [My blog](https://bky373.tistory.com/) & [bbFactory](https://github.com/bbFactory) 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbky373%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbky373%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=toured&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--
 Here are some ideas to get you started:
