@@ -1,11 +1,17 @@
 <h2> Hi, This is Borahm :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
+### Intro
+
+**리팩토링**과 **TDD**의 매력을 알아가는 중입니다. <br>
+누가봐도 **목적**이 분명한 코드를 작성할 줄 아는 개발자가 되겠습니다.
+
 ### Statistics:
 
 <p align="left">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&hide=stars&show_icons=true&theme=radical" width="380" height="130"/> &nbsp;
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=radical" height="130">
 </p>
+
 
 
 
@@ -22,6 +28,7 @@
 
 
 
+
 ### Challenging!:
 
 🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving)  (20/09/07 ~ 21/01/31) => **다음 챌린지 준비중...** <br>
@@ -31,7 +38,7 @@
 ### About More:
 
 📫 How to reach me : bo373@naver.com <br>
-🌱 Also trying to practice on : [GitLab](https://kdt-gitlab.elice.io/bky373) & [My blog](https://bky373.tistory.com/) & [bbFactory](https://github.com/bbFactory) 
+🌱 Also practice on : [GitLab](https://kdt-gitlab.elice.io/bky373) & [My blog](https://bky373.tistory.com/) & [bbFactory](https://github.com/bbFactory) 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbky373%2Fhit-counter&count_bg=%23FF4EB6&title_bg=%23555555&icon=&icon_color=%23F934A8&title=toured&edge_flat=true)](https://hits.seeyoufarm.com)
 
