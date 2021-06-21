@@ -3,10 +3,10 @@
 
 ### Intro
 
-> **목적이 분명한 코드**를 작성하기 위해 노력합니다.<br/>
-> 부족한 점이 있다면 **고민**과 **공부**, **피드백 수렴**을 통해 끊임없이 개선해 나갑니다.
+> [**배움**](https://velog.io/@bky373/)과 **피드백**을 즐기는 예비 백엔드 개발자 이보람입니다.<br/>
+> 부족한 점이 있다면 **고민**과 **공부**, [**피드백 수렴**](https://github.com/next-step/kotlin-blackjack/pull/34)을 통해 끊임없이 개선해 나갑니다.
 
-> [이보람_이력서.pdf](https://github.com/bky373/bky373/files/6687902/_.pdf)  &nbsp;또는 [노션](https://www.notion.so/f0cbdb8269c846b5a8b164f0eb08f236)에서 저의 이력을 확인할 수 있습니다. ( 2021.06 업데이트 )
+> [**이보람_이력서.pdf**](https://github.com/bky373/bky373/files/6687902/_.pdf)  &nbsp;또는 [**노션**](https://www.notion.so/f0cbdb8269c846b5a8b164f0eb08f236)에서 저의 이력을 확인할 수 있습니다. ( 2021.06 업데이트 )
 
 
 
