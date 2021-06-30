@@ -33,7 +33,6 @@
 
 ### Challenging!:
 
-🔥 **MT6W**: More than 6 solutions a week [(click me)](https://github.com/bky373/problem-solving)  (20/09/07 ~ 21/01/31) => **다음 챌린지 준비중...** <br>
 :triangular_flag_on_post: **1C1D**: 1 commit per 1 day (20/09/07 ~ )<br><br>
 
 
