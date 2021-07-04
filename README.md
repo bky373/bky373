@@ -8,14 +8,13 @@
 > [**이보람_이력서.pdf**](https://github.com/bky373/bky373/files/6728181/_.pdf)  &nbsp;또는 [**노션**](https://www.notion.so/f0cbdb8269c846b5a8b164f0eb08f236)에서 저의 이력을 확인할 수 있습니다. ( 2021.06 업데이트 )
 
 
-
-
 ### Statistics:
 
 <p align="left">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&hide=stars&show_icons=true&theme=radical" width="380" height="130"/> &nbsp;
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=radical" height="130">
 </p>
+
 
 
 ### Languages & Tools: 
@@ -30,9 +29,12 @@
 </p>
 
 
+
 ### Challenging!:
 
-:triangular_flag_on_post: **1C1D**: 1 commit per 1 day (20/09/07 ~ )<br><br>
+:triangular_flag_on_post: [**Line Snipets**](https://github.com/bky373/line-snipets/#Line-Snipets) : **하루에 한 줄**이라도 공부한 내용을 기록합니다. (21/07/02 ~ )
+
+<br>
 
 
 ### About More:
