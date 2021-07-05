@@ -32,7 +32,7 @@
 
 ### Challenging!:
 
-:triangular_flag_on_post: [**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 매일 공부한 내용을 기록합니다. (21/07/02 ~ )
+:triangular_flag_on_post: [**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 매일 공부한 내용을 기록합니다. (21/07/02 ~ )
 
 <br>
 
