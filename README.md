@@ -33,9 +33,7 @@
 ### Challenging!:
 
 :triangular_flag_on_post: [**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 매일 공부한 내용을 기록합니다. (21/07/02 ~ )
-
-<br>
-
+![snake gif](https://github.com/bky373/bky373/blob/output/github-contribution-grid-snake.gif)
 
 ### About More:
 
