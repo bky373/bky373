@@ -30,7 +30,8 @@
 
 ### Challenging!:
 
-:triangular_flag_on_post: [**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 매일 공부한 내용을 기록합니다. [**오늘 놓친 한 줄은 돌아오지 않는다!**](https://github.com/bky373/line-snipets/#Line-Wiki) (21/07/02 ~ )
+:triangular_flag_on_post: [**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 공부한 내용을 기록합니다. [**오늘 놓친 한 줄은 돌아오지 않는다!**](https://github.com/bky373/line-snipets/#Line-Wiki)
+
 ![snake gif](https://github.com/bky373/bky373/blob/output/github-contribution-grid-snake.gif)
 
 ### About More:
