@@ -2,8 +2,8 @@
 
 <br/>
 
-[**배움**](https://velog.io/@bky373/)과 [**피드백**](https://github.com/next-step/kotlin-blackjack/pull/34)을 즐기는 **백엔드 개발자** 이보람입니다.<br/>
-부족한 점이 있다면 **고민**과 [**공부**](https://github.com/bky373/cs-n-programming-study/blob/main/java/1%EC%9E%A5_JVM%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%2C%20%EC%9E%90%EB%B0%94%EC%BD%94%EB%93%9C%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EA%B0%80.md), **피드백 수렴**을 통해 끊임없이 개선해 나갑니다.
+[**배움**](https://github.com/bky373/cs-n-programming-study/blob/main/java/1%EC%9E%A5_JVM%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%2C%20%EC%9E%90%EB%B0%94%EC%BD%94%EB%93%9C%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EA%B0%80.md)과 [**피드백**](https://github.com/next-step/kotlin-blackjack/pull/34)을 즐기는 **백엔드 개발자** 이보람입니다.<br/>
+부족한 점이 있다면 **고민**과 [**공부**](https://bky373.github.io/), **피드백 수렴**을 통해 끊임없이 개선해 나갑니다.
 
 
 ### Statistics:
@@ -30,7 +30,7 @@
 
 ### Challenging!:
 
-:triangular_flag_on_post: [**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 공부한 내용을 기록합니다. [**오늘 놓친 한 줄은 돌아오지 않는다!**](https://github.com/bky373/line-snipets/#Line-Wiki)
+:triangular_flag_on_post: ~~[**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 공부한 내용을 기록합니다. [**오늘 놓친 한 줄은 돌아오지 않는다!**](https://github.com/bky373/line-snipets/#Line-Wiki)~~   >> [블로깅](https://bky373.github.io/)으로 변경
 
 ![snake gif](https://github.com/bky373/bky373/blob/output/github-contribution-grid-snake.gif)
 
