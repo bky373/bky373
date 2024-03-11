@@ -26,17 +26,9 @@
   <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-
-
 ### Challenging!:
 
 :triangular_flag_on_post: ~~[**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 공부한 내용을 기록합니다. [**오늘 놓친 한 줄은 돌아오지 않는다!**](https://github.com/bky373/line-snipets/#Line-Wiki)~~   >> [블로깅](https://bky373.github.io/)으로 변경
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
 
 
 ### About More:
@@ -58,3 +50,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   --> 
+
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+timeout-minutes: 10
+
+steps:
+  # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+  - name: generate github-contribution-grid-snake.svg
+    uses: Platane/snk/svg-only@v3
+    with:
+      github_user_name: bky373
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+  # push the content of <build_dir> to a branch
+  # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+  - name: push github-contribution-grid-snake.svg to the output branch
+    uses: crazy-max/ghaction-github-pages@v3.1.0
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
