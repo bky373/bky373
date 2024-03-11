@@ -33,9 +33,9 @@
 :triangular_flag_on_post: ~~[**Line Wiki**](https://github.com/bky373/line-snipets/#Line-Wiki) : 한 줄 한 줄 공부한 내용을 기록합니다. [**오늘 놓친 한 줄은 돌아오지 않는다!**](https://github.com/bky373/line-snipets/#Line-Wiki)~~   >> [블로깅](https://bky373.github.io/)으로 변경
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
 
