@@ -6,9 +6,7 @@
 부족한 점이 있다면 **고민**과 [**공부**](https://bky373.github.io/), **피드백 수렴**을 통해 끊임없이 개선해 나갑니다.
 
 
-### Skills 
-
----
+## Skills 
 <p>
   <img alt="java" src="https://img.shields.io/badge/-Java-FF7A59?style=flat-square&logo=java&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-01B3E3?style=flat-square&logo=kotlin&logoColor=white" />
@@ -20,23 +18,17 @@
   <img alt="datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
 </p>
 
-### Contributions
-
----
-#### [spring-projects / spring-kafka](https://github.com/spring-projects/spring-kafka)
+## Contributions
+### [spring-projects / spring-kafka](https://github.com/spring-projects/spring-kafka)
   - [WIP] Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
   - Fix `enforceRebalance` [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
 
 
-### About More
-
----
+## About More
 📫 Email : bo373@naver.com <br>
 🌱 Blogs: https://bky373.github.io & [Velog](https://velog.io/@bky373/) & [Line Wiki](https://github.com/bky373/line-snipets/#Line-Wiki)
 
-### Statistics
-
----
+## Statistics
 <p align="left">
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=bky373&hide=stars&show_icons=true&theme=radical" width="380" height="130"/> &nbsp;
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bky373&layout=compact&theme=radical" height="130">
