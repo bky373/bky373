@@ -19,7 +19,7 @@
 </p>
 
 ## Contributions
-- [spring-projects/spring-kafka](https://github.com/spring-projects/spring-kafka)
+### [Spring Kafka](https://github.com/spring-projects/spring-kafka)
   - Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
   - Fix `enforceRebalance` [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
 
