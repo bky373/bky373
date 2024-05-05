@@ -11,6 +11,7 @@
   <img alt="java" src="https://img.shields.io/badge/-Java-FF7A59?style=flat-square&logo=java&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-01B3E3?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-5881D8?style=flat-square&logo=python&logoColor=white" />
+  <br>
   <img alt="spring-kafka" src="https://img.shields.io/badge/-Spring Kafka-6db33f?style=flat-square&logo=spring&logoColor=white" />
   <img alt="redis" src="https://img.shields.io/badge/-Redis-ff4438?style=flat-square&logo=redis&logoColor=white" />
   <br>
@@ -22,6 +23,13 @@
 ### [Spring Kafka](https://github.com/spring-projects/spring-kafka)
   - Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
   - Fix `enforceRebalance` [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
+
+## Certificates
+### [Redis University](https://redis.io/university/)
+- [Introduction to Redis Data Structures](https://university.redis.com/certificates/34e701d242214c208525accbf4d371b2)
+- [Redis for Java Developers](https://university.redis.com/certificates/f2ebf94e5d1f4c1c8d4fbe4f359061fd)
+- [Querying, Indexing, and Full-Text Search](https://university.redis.com/certificates/e3a24c1d9dcc4170ba424489bd135c8f)
+- [Running Redis at Scale](https://university.redis.com/certificates/64b35b38122945c5a04e9ac69b1c4646)
 
 
 ## About More
