@@ -15,6 +15,7 @@
   <img alt="spring-kafka" src="https://img.shields.io/badge/-Spring Kafka-6db33f?style=flat-square&logo=spring&logoColor=white" />
   <img alt="redis" src="https://img.shields.io/badge/-Redis-ff4438?style=flat-square&logo=redis&logoColor=white" />
   <br>
+  <img alt="Testcontainers" src="https://img.shields.io/badge/-Testcontainers-123456?style=flat-square&logo=Testcontainers&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github Actions-313131?style=flat-square&logo=github&logoColor=white" />
   <img alt="datadog" src="https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
 </p>
