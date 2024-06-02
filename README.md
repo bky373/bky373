@@ -12,8 +12,9 @@
   <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-01B3E3?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-5881D8?style=flat-square&logo=python&logoColor=white" />
   <br>
-  <img alt="spring-kafka" src="https://img.shields.io/badge/-Spring Kafka-6db33f?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="redis" src="https://img.shields.io/badge/-Redis-ff4438?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="spring-kafka" src="https://img.shields.io/badge/-Spring Kafka-6db33f?style=flat-square&logo=spring&logoColor=white" />
   <br>
   <img alt="Testcontainers" src="https://img.shields.io/badge/-Testcontainers-123456?style=flat-square&logo=Testcontainers&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github Actions-313131?style=flat-square&logo=github&logoColor=white" />
@@ -22,8 +23,12 @@
 
 ## Contributions
 ### [Spring Kafka](https://github.com/spring-projects/spring-kafka)
+#### Merged
   - Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
   - Fix `enforceRebalance` [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
+#### WIP
+  - Update misleading contents in ConsumerPartitionPausedEvent and features.adoc [#3293](https://github.com/spring-projects/spring-kafka/pull/3293)
+  - consumer group specific offset seeking for AbstractConsumerSeekAware [#2302](https://github.com/spring-projects/spring-kafka/issues/2302)
 
 ## Certificates
 ### [Redis University](https://redis.io/university/)
