@@ -23,11 +23,11 @@
 
 ## Contributions
 ### [Spring Kafka](https://github.com/spring-projects/spring-kafka)
-#### Merged
+#### [ Merged ]
   - Update misleading contents in ConsumerPartitionPausedEvent and features.adoc [#3293](https://github.com/spring-projects/spring-kafka/pull/3293)
   - Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
   - Fix `enforceRebalance` [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
-#### WIP
+#### [ WIP ]
   - consumer group specific offset seeking for AbstractConsumerSeekAware [#2302](https://github.com/spring-projects/spring-kafka/issues/2302)
 
 ## Certificates
