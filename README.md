@@ -32,10 +32,10 @@
 
 ## Certificates
 ### [Redis University](https://redis.io/university/)
-- [Introduction to Redis Data Structures](https://university.redis.com/certificates/34e701d242214c208525accbf4d371b2)
 - [Redis for Java Developers](https://university.redis.com/certificates/f2ebf94e5d1f4c1c8d4fbe4f359061fd)
-- [Querying, Indexing, and Full-Text Search](https://university.redis.com/certificates/e3a24c1d9dcc4170ba424489bd135c8f)
 - [Running Redis at Scale](https://university.redis.com/certificates/64b35b38122945c5a04e9ac69b1c4646)
+- [Querying, Indexing, and Full-Text Search](https://university.redis.com/certificates/e3a24c1d9dcc4170ba424489bd135c8f)
+- [Introduction to Redis Data Structures](https://university.redis.com/certificates/34e701d242214c208525accbf4d371b2)
 
 
 ## About More
