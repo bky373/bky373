@@ -2,8 +2,10 @@
 
 <br/>
 
-[**배움**](https://github.com/bky373/cs-n-programming-study/blob/main/java/1%EC%9E%A5_JVM%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0%2C%20%EC%9E%90%EB%B0%94%EC%BD%94%EB%93%9C%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EA%B0%80.md)과 [**피드백**](https://github.com/next-step/kotlin-blackjack/pull/34)을 즐기는 **백엔드 개발자** 이보람입니다.<br/>
-부족한 점이 있다면 **고민**과 [**공부**](https://bky373.github.io/), **피드백 수렴**을 통해 끊임없이 개선해 나갑니다.
+**Spring, Kafka** 에 관심이 많은 백엔드 개발자 입니다. <br>
+개인과 팀의 생산성을 높이는 일을 좋아합니다. <br><br>
+**Spring and Kafka** are areas of strong interest for me as a backend developer. <br>
+I enjoy working on improving the productivity of myself and teams.
 
 
 ## Skills 
