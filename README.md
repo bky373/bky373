@@ -5,7 +5,7 @@
 **Spring**, **Kafka** 에 관심이 많은 백엔드 개발자 입니다. <br>
 개인과 팀의 생산성을 높이는 일을 좋아합니다. <br><br>
 **Spring** and **Kafka** are areas of strong interest for me as a backend developer. <br>
-I enjoy working on improving the productivity of myself and teams.
+I enjoy working on **improving the productivity** of myself and teams.
 
 
 ## Skills 
