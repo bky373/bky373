@@ -28,7 +28,7 @@ I enjoy working on **improving the productivity** of myself and teams.
   - Enable consumer seek based on matching group Id [#3318](https://github.com/spring-projects/spring-kafka/pull/3318)
   - Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
   - Update misleading contents in ConsumerPartitionPausedEvent and features.adoc [#3293](https://github.com/spring-projects/spring-kafka/pull/3293)
-  - Fix `enforceRebalance` [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
+  - Fix enforceRebalance [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
 
 ## Certificates
 ### Redis University
