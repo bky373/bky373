@@ -24,16 +24,14 @@ I enjoy working on **improving the productivity** of myself and teams.
 </p>
 
 ## Contributions
-### [Spring Kafka](https://github.com/spring-projects/spring-kafka)
-#### [ Merged ]
-  - Update misleading contents in ConsumerPartitionPausedEvent and features.adoc [#3293](https://github.com/spring-projects/spring-kafka/pull/3293)
+#### Spring Kafka
+  - Enable consumer seek based on matching group Id [#3318](https://github.com/spring-projects/spring-kafka/pull/3318)
   - Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
+  - Update misleading contents in ConsumerPartitionPausedEvent and features.adoc [#3293](https://github.com/spring-projects/spring-kafka/pull/3293)
   - Fix `enforceRebalance` [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
-#### [ WIP ]
-  - consumer group specific offset seeking for AbstractConsumerSeekAware [#2302](https://github.com/spring-projects/spring-kafka/issues/2302)
 
 ## Certificates
-### [Redis University](https://redis.io/university/)
+#### Redis University
 - [Redis for Java Developers](https://university.redis.com/certificates/f2ebf94e5d1f4c1c8d4fbe4f359061fd)
 - [Running Redis at Scale](https://university.redis.com/certificates/64b35b38122945c5a04e9ac69b1c4646)
 - [Querying, Indexing, and Full-Text Search](https://university.redis.com/certificates/e3a24c1d9dcc4170ba424489bd135c8f)
