@@ -25,14 +25,14 @@ I enjoy working on **improving the productivity** of individuals and teams.
 
 ## Contributions
 ### Spring Kafka
-  - Enhance handling of seeking failures due to consumer rebalancing [#3410](https://github.com/spring-projects/spring-kafka/pull/3410)
-  - Enhance AbstractConsumerSeekAware with Extended callback for Multi-Group Listeners [#3341](https://github.com/spring-projects/spring-kafka/pull/3341)
-  - Enable consumer seek based on matching group Id [#3318](https://github.com/spring-projects/spring-kafka/pull/3318)
-  - Update misleading contents in ConsumerPartitionPausedEvent and features.adoc [#3293](https://github.com/spring-projects/spring-kafka/pull/3293)
+  - Enhance handling of seeking failures due to consumer rebalancing: [#3410](https://github.com/spring-projects/spring-kafka/pull/3410), [#3411](https://github.com/spring-projects/spring-kafka/pull/3411)
+  - Enhance AbstractConsumerSeekAware with Extended callback for Multi-Group Listeners: [#3341](https://github.com/spring-projects/spring-kafka/pull/3341)
+  - Enable consumer seek based on matching group Id: [#3318](https://github.com/spring-projects/spring-kafka/pull/3318)
+  - Update misleading contents in ConsumerPartitionPausedEvent and features.adoc: [#3293](https://github.com/spring-projects/spring-kafka/pull/3293)
 #### Docs
-  - Fix typos in the EnableKafka and tips.adoc [#3412](https://github.com/spring-projects/spring-kafka/pull/3412)
-  - Fix typos in docs and classes [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
-  - Fix enforceRebalance [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
+  - Fix typos in the EnableKafka and tips.adoc: [#3412](https://github.com/spring-projects/spring-kafka/pull/3412)
+  - Fix typos in docs and classes: [#3226](https://github.com/spring-projects/spring-kafka/pull/3226)
+  - Fix enforceRebalance: [#3215](https://github.com/spring-projects/spring-kafka/pull/3215)
 
 ## Certificates
 ### Redis University
