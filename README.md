@@ -8,7 +8,6 @@
 **Spring** and **Kafka** are areas of strong interest for me as a backend developer. <br>
 I enjoy working on **improving the productivity** of individuals and teams.
 
-
 ## Skills 
 <p>
   <img alt="java" src="https://img.shields.io/badge/-Java-FF7A59?style=flat-square&logo=java&logoColor=white" />
@@ -24,6 +23,9 @@ I enjoy working on **improving the productivity** of individuals and teams.
   <img alt="Testcontainers" src="https://img.shields.io/badge/-Testcontainers-123456?style=flat-square&logo=Testcontainers&logoColor=white" />
 </p>
 
+## Contributions
+
+- [Spring Kafka Contributions](https://github.com/spring-projects/spring-kafka/pulls?q=author%3Abky373)
 
 ## About More
 📫 Email : bo373@naver.com <br>
