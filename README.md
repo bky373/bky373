@@ -25,7 +25,7 @@ I enjoy working on **improving the productivity** of individuals and teams.
 
 ## Contributions
 
-- [Spring Kafka Contributions](https://github.com/spring-projects/spring-kafka/pulls?q=author%3Abky373)
+- [Spring Kafka Contributions](https://github.com/spring-projects/spring-kafka/issues?q=author%3Abky373%20)
 
 ## About More
 📫 Email : bo373@naver.com <br>
